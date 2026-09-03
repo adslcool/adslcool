@@ -4,7 +4,6 @@
 
 ### 网络 · Linux · 自动化 · 基础设施
 
-
 主要关注：
 
 * 🌐 网络基础设施
@@ -38,15 +37,3 @@
 MikroTik CHR 一键安装脚本。
 
 用于在 VPS / 独立服务器上快速部署 MikroTik CHR。
-
----
-
-### 🛠 技术方向
-
-```text
-网络        MikroTik · RouterOS · TCP/IP · Proxy
-Linux       Debian · Shell · systemd
-Web         Caddy · TLS · Reverse Proxy
-自动化      GitHub Actions · Bash
-云服务      VPS · Cloud Infrastructure
-```
