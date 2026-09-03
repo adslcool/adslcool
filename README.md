@@ -1,10 +1,10 @@
 <div align="center">
 
-# 👋 Hi, I'm adslcool
+# 👋 你好，我是 adslcool
 
-### Network · Linux · Automation · Infrastructure
+### 网络 · Linux · 自动化 · 基础设施
 
-**Make networking simpler. Make deployment faster.**
+**让网络更简单，让部署更高效。**
 
 [![GitHub](https://img.shields.io/badge/GitHub-adslcool-181717?style=flat-square\&logo=github)](https://github.com/adslcool)
 ![Linux](https://img.shields.io/badge/Linux-Debian-FCC624?style=flat-square\&logo=linux\&logoColor=black)
@@ -15,27 +15,27 @@
 
 ---
 
-### 🧑‍💻 About Me
+### 👨‍💻 关于我
 
 喜欢折腾网络、Linux 和自动化部署。
 
 主要关注：
 
-* 🌐 Network Infrastructure
+* 🌐 网络基础设施
 * 🐧 Linux / Debian
 * 📡 MikroTik RouterOS / CHR
-* 🚀 Caddy / Reverse Proxy
-* 🔧 Shell Automation
-* ☁️ VPS & Cloud Infrastructure
+* 🚀 Caddy / 反向代理
+* 🔧 Shell 自动化
+* ☁️ VPS / 云基础设施
 * ⚙️ GitHub Actions / CI/CD
 
-追求：
+我更喜欢：
 
 > **简单、稳定、自动化。**
 
 ---
 
-### 🚀 Projects
+### 🚀 我的项目
 
 #### [Caddy_Build](https://github.com/adslcool/Caddy_Build)
 
@@ -51,25 +51,25 @@
 
 MikroTik CHR 一键安装脚本。
 
-面向 VPS / 独立服务器的快速 CHR 部署与自动化安装。
+用于在 VPS / 独立服务器上快速部署 MikroTik CHR。
 
 ---
 
-### 🛠 Tech Stack
+### 🛠 技术方向
 
 ```text
-Network      MikroTik · RouterOS · TCP/IP · Proxy
-Linux        Debian · Shell · systemd
-Web          Caddy · TLS · Reverse Proxy
-Automation   GitHub Actions · Bash
-Cloud        VPS · Cloud Infrastructure
+网络        MikroTik · RouterOS · TCP/IP · Proxy
+Linux       Debian · Shell · systemd
+Web         Caddy · TLS · Reverse Proxy
+自动化      GitHub Actions · Bash
+云服务      VPS · Cloud Infrastructure
 ```
 
 ---
 
 <div align="center">
 
-### 📊 GitHub
+### 📊 GitHub 统计
 
 <img src="https://github-readme-stats.vercel.app/api?username=adslcool&show_icons=true&hide_border=true&theme=transparent" height="150" />
 
@@ -77,6 +77,6 @@ Cloud        VPS · Cloud Infrastructure
 
 <br>
 
-**Keep it simple. Keep it reliable.**
+**保持简单，保持稳定。**
 
 </div>
